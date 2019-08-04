@@ -26,7 +26,7 @@ Download your Sadpanda galleries offline for backup and archival purposes, just 
   ```bash
   npm start
   ```
-- Once the scraper is finished, your gallery should now be stored as a zip file in the saved directory (or whatever SAVE_PATH value you chose).
+- Once the scraper is finished, your gallery should now be stored as a zip file in the saved directory (or whatever `SAVE_PATH` value you chose).
 
 ## Gallery format
 
